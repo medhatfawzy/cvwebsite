@@ -1,2 +1,2 @@
-# cvwebsite
-A Full CV in a webpage format 
+# CV Website
+A full CV in a webpage format 
